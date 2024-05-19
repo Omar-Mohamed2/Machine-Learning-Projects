@@ -1,10 +1,6 @@
-Certainly! Here's a comprehensive README template for your machine learning project repository:
-
----
 
 # Machine Learning Project
 
-![Project Logo](path/to/logo.png) *(optional)*
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
@@ -88,7 +84,7 @@ Present the results of your model:
 *Example:*
 The final model achieved an RMSE of 0.5 on the test set. Below is a plot comparing the predicted prices to the actual prices.
 
-![Results Plot](path/to/results-plot.png)
+
 
 ## Contributing
 If you would like to contribute to this project, please follow these steps:
@@ -101,12 +97,3 @@ If you would like to contribute to this project, please follow these steps:
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-Your Name - [your-email@example.com](mailto:your-email@example.com) - [LinkedIn](https://www.linkedin.com/in/yourprofile)
-
-Project Link: [https://github.com/yourusername/your-repo-name](https://github.com/yourusername/your-repo-name)
-
----
-
-Feel free to customize this template according to your specific project details.
