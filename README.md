@@ -12,7 +12,6 @@
 7. [Results](#results)
 8. [Contributing](#contributing)
 9. [License](#license)
-10. [Contact](#contact)
 
 ## Project Overview
 Provide a brief description of your project:
